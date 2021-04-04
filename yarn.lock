@@ -2,3 +2,14 @@
 # yarn lockfile v1
 
 
+random@^3.0.3:
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/random/-/random-3.0.3.tgz#5929021da0f8e308bc9fe15e030bef568e83f5db"
+  integrity sha512-Ppz8eI5oYbzC0dQKW3oSFFtyKnh7B1kN1kD7s6J545/aq+R1+YcqQEDJ5AZ0di3wYWbFV9otf5MaHJAhYH56Fw==
+  dependencies:
+    seedrandom "^3.0.5"
+
+seedrandom@^3.0.5:
+  version "3.0.5"
+  resolved "https://registry.yarnpkg.com/seedrandom/-/seedrandom-3.0.5.tgz#54edc85c95222525b0c7a6f6b3543d8e0b3aa0a7"
+  integrity sha512-8OwmbklUNzwezjGInmZ+2clQmExQPvomqjL7LFqOYqtmuxRgQYqOD3mHaU+MvZn5FLUeVxVfQjwLZW/n/JFuqg==
